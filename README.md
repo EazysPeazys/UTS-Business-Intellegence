@@ -1,5 +1,5 @@
 # UTS BUSINESS INTELLEGENCE💻
-Projek UTS Mata Kuliah Business Intellegence Semester 4
+Project UTS Mata Kuliah Business Intellegence Semester 4
 
 ## 👥Nama Anggota Tim:
 
