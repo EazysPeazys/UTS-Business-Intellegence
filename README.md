@@ -1,7 +1,7 @@
 # UTS BUSINESS INTELLEGENCE💻
 Project UTS Mata Kuliah Business Intellegence Semester 4
 
-## 👥Nama Anggota Tim:
+## 👥Anggota Project:
 
 - 👤Nabil Daffa Athalasyah (2409116090)
 - 👤Moreno Ferdinand Farhantino (2409116097)
