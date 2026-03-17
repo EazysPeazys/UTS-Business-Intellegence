@@ -1,5 +1,5 @@
 # UTS BUSINESS INTELLEGENCE KELOMPOK 15💻
-Project UTS Mata Kuliah Business Intellegence Semester 4
+**Project UTS Mata Kuliah Business Intellegence Semester 4**
 
 ## 👥Anggota Project:
 
